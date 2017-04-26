@@ -1,4 +1,7 @@
 # QuickFitApp
+
+Here is [demo](http://youtu.be/iO5aKTlU9bo?hd=1) 
+
 Final Year Project - G00302871 Dominykas Urbonas
 
 # Following required for use with this application
